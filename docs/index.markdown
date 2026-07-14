@@ -11,4 +11,6 @@ title: "ソフトウェア工学　２０２６"
 git/github演習
 
 
+## 講義まとめ
+
 [softwareEng Lecture Notes](./softwareEng2026)
